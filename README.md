@@ -1,13 +1,8 @@
 <h1 align="center">👋 Hello, I'm Kgothatso Theko, but call me KG</h1>
 <p align="center">
-
-  <!-- Dark red -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=4B0000&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%7C+Cybersecurity+Enthusiast+%7C+Problem+Solver" />
-
-  <!-- Medium red -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=8B0000&center=true&vCenter=true&width=700&lines=Fullstack+Dev+%7C+AI+%2B+XR+%2B+3D+Web+Architect" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer+%7C+Cybersecurity+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <i>⚡ Making an impact, one line of code at a time</i>
