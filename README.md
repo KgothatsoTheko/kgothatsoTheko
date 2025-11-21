@@ -1,5 +1,15 @@
-<h1 align="center">👋 Hi, I'm Kgothatso Theko</h1>
-<h3 align="center">Full-Stack Software Engineer | Cybersecurity Enthusiast | Problem Solver</h3>
+<h1 align="center">👋 Hello, I'm Kgothatso Theko, but call me KG</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%7C+Cybersecurity+Enthusiast+%7C+Problem+Solver;Fullstack+Dev+%7C+AI+%2B+XR+%2B+3D+Web+Architect" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>⚡ Building the future, one line of code at a time</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KgothatsoTheko&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kgothatso-theko/">
@@ -112,11 +122,3 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 - 🏆 **GitHub:** [KgothatsoTheko](https://github.com/KgothatsoTheko)
 
 ---
-
-<p align="center">
-  <i>⚡ Building the future, one line of code at a time</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KgothatsoTheko&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
