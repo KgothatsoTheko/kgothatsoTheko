@@ -19,7 +19,7 @@
   <a href="mailto:kgothatsotheko7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/KgothatsoTheko?tab=repositories">
+  <a href="https://kgothatsotheko.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -92,17 +92,17 @@ Full-Stack Software Engineer with **5 years of experience** leading the end-to-e
 
 ## 🏆 Featured Projects
 
-### 🔧 [SA-Digital-Portal](https://github.com/KgothatsoTheko/SA-Digital-Portal)
+### 🔧 [SA-Digital-Portal](https://sa-digital-portal.web.app/)
 Web application for SA-Digital Portal Project
 
 **Tech Stack:** `TypeScript` `Angular` `Node.js` `Express` `JWT` `MongoDB`
 
-### ⚡ [1947 on Vilakazi Street](https://github.com/KgothatsoTheko/1947OnVilakaziStreet)
+### ⚡ [1947 on Vilakazi Street](https://nineteen47onvilakazistreet.web.app/)
 Web application for 1947 on Vilakazi Street restaurant
 
 **Tech Stack:** `Angular` `TypeScript` `SCSS`
 
-### 🎨 [Dev Portfolio](https://github.com/KgothatsoTheko/portfolio)
+### 🎨 [Dev Portfolio](https://kgothatsotheko.web.app/)
 My personal developer portfolio website showcasing projects, skills, and professional experience.
 
 **Tech Stack:** `React` `TypeScript` `CSS3` `Vercel`
