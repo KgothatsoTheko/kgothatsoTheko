@@ -80,7 +80,7 @@ Full-Stack Software Engineer with **5 years of experience** leading the end-to-e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KgothatsoTheko&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KgothatsoTheko&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KgothatsoTheko&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
