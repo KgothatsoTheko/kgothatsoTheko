@@ -30,9 +30,9 @@
 
 Full-Stack Software Engineer with **5 years of experience** leading the end-to-end development of scalable, high-performance systems. I combine deep technical expertise with a **security-first mindset** and **customer-focused approach** to build robust applications that solve real-world problems.
 
-- 🔭 **Currently working on:** Scalable full-stack applications with modern tech stacks
-- 🌱 **Currently learning:** Terraform and advanced cloud architecture
-- 💡 **Interested in:** System design, cybersecurity, and emerging technologies
+- 🔭 **Currently working on:** Scalable full-stack applications with modern tech stacks, Salesforce consultant and ethical hacker pathways
+- 🌱 **Currently learning:** Salesforce and advanced cloud architecture
+- 💡 **Interested in:** Data-driven impact, System design, cybersecurity, and emerging technologies
 - 💬 **Ask me about:** Node.js, React, System Architecture, or Cybersecurity
 - ⚡ **Fun fact:** I enjoy penetration testing and ethical hacking in my spare time
 
@@ -50,6 +50,7 @@ Full-Stack Software Engineer with **5 years of experience** leading the end-to-e
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### **Frontend & Frameworks**
+![Next.js](https://img.shields.io/badge/-Nextjs-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
