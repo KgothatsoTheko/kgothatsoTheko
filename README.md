@@ -50,7 +50,7 @@ Full-Stack Software Engineer with **5 years of experience** leading the end-to-e
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### **Frontend & Frameworks**
-![Next.js](https://img.shields.io/badge/-Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -74,7 +74,7 @@ Full-Stack Software Engineer with **5 years of experience** leading the end-to-e
 ### **Platforms & Specialties**
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF6B6B?style=flat-square&logo=security&logoColor=white)
+![Cybersecurity SOC](https://img.shields.io/badge/-Cybersecurity%20SOC-2E8B57?style=flat-square&logo=security&logoColor=white)
 
 ---
 
