@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-Full-Stack Software Engineer with **5 years of experience** leading the end-to-end development of scalable, high-performance systems. I combine deep technical expertise with a **security-first mindset** and **customer-focused approach** to build robust applications that solve real-world problems.
+Full-Stack Software Engineer with **5+ years of experience** leading the end-to-end development of scalable, high-performance systems. I combine deep technical expertise with a **security-first mindset** and **customer-focused approach** to build robust applications that solve real-world problems.
 
 - 🔭 **Currently working on:** Scalable full-stack applications with modern tech stacks, Salesforce consultant and ethical hacker pathways
 - 🌱 **Currently learning:** Salesforce and advanced cloud architecture
