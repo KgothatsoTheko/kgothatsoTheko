@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello, I'm Kgothatso Theko, but call me KG</h1>
+<h1 align="center">Hello👋, I'm Kgothatso Theko (KG)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=FullStack+Software+Engineer+%7C+Cybersecurity+Security-Analyst+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=GTM+Engineer+%7C+Systems-Oriented+Software+Engineer+%7C+Full-Stack%2C+Automation+%26+Security" alt="Typing SVG" />
 </p>
 
 
 <p align="center">
-  <i>⚡ Making an impact, one line of code at a time</i>
+  <i>⚡ Translating technical capability into deployed community impact</i>
 </p>
 
 <p align="center">
@@ -28,17 +28,24 @@
 
 ## 🚀 About Me
 
-Full-Stack Software & GTM Engineer with **5+ years of experience** leading the end-to-end development of scalable, high-performance systems. I combine deep technical expertise with a **security-first mindset** and **customer-focused approach** to build robust applications that solve real-world problems.
+I am a **Technical Builder with a strategist’s mindset.** I specialize in the intersection of secure software engineering, GTM (Go-To-Market) systems, and mission-driven product development. 
 
-- 🔭 **Currently working on:** Scalable full-stack applications with modern tech stacks, Salesforce consultant and ethical hacker pathways
-- 🌱 **Currently learning:** Salesforce and advanced cloud architecture
-- 💡 **Interested in:** Data-driven impact, System design, cybersecurity, and emerging technologies
-- 💬 **Ask me about:** Node.js, React, System Architecture, or Cybersecurity
-- ⚡ **Fun fact:** I enjoy penetration testing and ethical hacking in my spare time
+- 🔭 **Focus:** Building secure, scalable platforms for the public sector and optimizing GTM pipelines.
+- 🛠️ **Expertise:** Bridging the gap between technical execution (Full-Stack) and business growth (Salesforce/Automation).
+- 🔐 **Security:** Google Certified Cybersecurity professional applying a security-first approach to all code.
+- 💬 **Ask me about:** System Architecture, GTM Workflows, React/Node.js, or SOC analysis.
+- ⚡ **Core Value:** Impact > Hype.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Ecosystem
+
+### **Systems & Security (GTM & Core)**
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity%20SOC-2E8B57?style=flat-square&logo=security&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 ### **Languages**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -71,14 +78,9 @@ Full-Stack Software & GTM Engineer with **5+ years of experience** leading the e
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-### **Platforms & Specialties**
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Cybersecurity SOC](https://img.shields.io/badge/-Cybersecurity%20SOC-2E8B57?style=flat-square&logo=security&logoColor=white)
-
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance Metrics
 
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KgothatsoTheko&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> 
@@ -94,22 +96,21 @@ Full-Stack Software & GTM Engineer with **5+ years of experience** leading the e
 ## 🏆 Featured Projects
 
 ### 🔧 [SA-Digital-Portal](https://sa-digital-portal.web.app/)
-Web application for SA-Digital Portal Project
+A mission-driven platform designed for public sector accessibility and secure citizen interaction.
 
 **Tech Stack:** `TypeScript` `Angular` `Node.js` `Express` `JWT` `MongoDB`
 
 ### ⚡ [1947 on Vilakazi Street](https://nineteen47onvilakazistreet.web.app/)
-Web application for 1947 on Vilakazi Street restaurant
+Customer-facing web platform supporting online engagement and brand presence.
 
 **Tech Stack:** `Angular` `TypeScript` `SCSS`
 
-### 🎨 [Dev Portfolio](https://kgothatsotheko.web.app/)
-My personal developer portfolio website showcasing projects, skills, and professional experience.
-
-**Tech Stack:** `React` `TypeScript` `CSS3` `Vercel`
+### 📈 [GTM & CRM Automations](https://github.com/KgothatsoTheko)
+Architecting the connective tissue between sales, marketing, and product through automated workflows.
+**Focus:** Salesforce Integration, Lead Routing, API Middleware.
 
 ### 🔐 [Security Projects](https://github.com/KgothatsoTheko/OSINT-Information-Gathering-Script)
-Various cybersecurity projects including penetration testing tools and security analysis scripts.
+Custom scripts for penetration testing and automated information gathering, focused on data integrity.
 
 **Tech Stack:** `Python` `Bash` `Security Tools` `Ethical Hacking`
 
@@ -117,10 +118,8 @@ Various cybersecurity projects including penetration testing tools and security 
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a chat about technology!
-
-- 📧 **Email:** [kgothatsotheko7@gmail.com](mailto:kgothatsotheko7@gmail.com) 
 - 💼 **LinkedIn:** [Kgothatso Theko](https://www.linkedin.com/in/kgothatso-theko/)
-- 🏆 **GitHub:** [KgothatsoTheko](https://github.com/KgothatsoTheko)
+- 🌐 **Portfolio:** [kgothatsotheko.web.app](https://kgothatsotheko.web.app/)
+- 📧 **Email:** [kgothatsotheko7@gmail.com](mailto:kgothatsotheko7@gmail.com)
 
 ---
