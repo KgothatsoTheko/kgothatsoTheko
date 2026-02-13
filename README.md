@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KgothatsoTheko&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=KgothatsoTheko&color=00BFFF&style=flat-square" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -74,12 +74,12 @@ I'm a **Senior Software Engineer with 5+ years of experience** building full-sta
 ## 📊 Performance Metrics
 
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KgothatsoTheko&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KgothatsoTheko&layout=compact&theme=radical&hide_border=true&langs_count=8" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KgothatsoTheko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=000000" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KgothatsoTheko&layout=compact&hide_border=true&langs_count=8&title_color=00BFFF&text_color=FFFFFF&bg_color=000000" /> 
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KgothatsoTheko&theme=radical&hide_border=true" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KgothatsoTheko&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=000000&stroke=00BFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=00BFFF" /> 
 </p>
 
 ---
