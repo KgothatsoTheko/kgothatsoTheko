@@ -50,22 +50,24 @@ I'm a **Senior Software Engineer with 5+ years of experience** building full-sta
 
 ### **Security & GTM Strategy**
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity%20(Google%20Cert)-2E8B57?style=flat-square&logo=security&logoColor=white)
-![Salesforce](https://img.shields.io/badge/-Salesforce%20(Candidate)-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce%20-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### **GTM & Automation Tools**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Clay](https://img.shields.io/badge/-Clay-7B42BC?style=flat-square&logo=clay&logoColor=white)
 ![Smartlead.ai](https://img.shields.io/badge/-Smartlead.ai-FF6F00?style=flat-square&logo=smartlead&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-5A67D8?style=flat-square&logo=make&logoColor=white)
 
 ### **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Also experienced with:** Python, Java, Kotlin, C#, Vue.js, .NET Core, Terraform, Kubernetes (learning)
+**Also experienced with:** Java, Kotlin, C#, C++, React Native, Vue.js, Next.js, .NET Core, Terraform (learning)
 
 ---
 
@@ -107,7 +109,7 @@ I'm a **Senior Software Engineer with 5+ years of experience** building full-sta
 - 🍽️ [1947 on Vilakazi Street](https://nineteen47onvilakazistreet.web.app/) – Full-stack restaurant platform that increased online reservations by 15%.  
 - 🔐 [Cybersecurity Tooling](https://github.com/KgothatsoTheko/OSINT-Information-Gathering-Script) – Open-source OSINT and penetration testing scripts demonstrating security-first mindset.  
 - 🧩 [Lead-Opportunity Tracking System](https://github.com/KgothatsoTheko/Lead-Opportunity-Tracking-System-Salesforce) – Custom objects, validation rules, and dashboards for Salesforce pipeline management.  
-- ⚡ [Automated Google Meet Attendance to Salesforce]([https://github.com/KgothatsoTheko](https://www.linkedin.com/posts/kgothatso-theko_automation-salesforce-salesforceadmin-activity-7400428321995395073--t6f?utm_source=share&utm_medium=member_desktop&rcm=ACoAADihw8MBv7CZofmTQVfxfGDKcjdYQMZDWUs)) – Zapier integration eliminating manual data entry.
+- ⚡ [Automated Google Meet Attendance to Salesforce](https://www.linkedin.com/posts/kgothatso-theko_automation-salesforce-salesforceadmin-activity-7400428321995395073--t6f?utm_source=share&utm_medium=member_desktop&rcm=ACoAADihw8MBv7CZofmTQVfxfGDKcjdYQMZDWUs) – Zapier integration eliminating manual data entry.
 
 ---
 
