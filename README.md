@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kgothatso Theko (KG)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer+Transitioning+to+GTM;Systems-Oriented+%7C+Full-Stack+%7C+Security-First;Building+Technology+That+Reaches+%26+Serves" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer+Transitioning+to+GTM;Systems-Oriented+%7C+Full-Stack+%7C+Security-First;Building+Technology+That+Reaches+%26+Serves" alt="Typing SVG" />
 </p>
 
 <p align="center">
