@@ -47,13 +47,18 @@ I'm a **Senior Software Engineer with 5+ years of experience** building full-sta
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### **Security & GTM Strategy**
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity%20(Google%20Cert)-2E8B57?style=flat-square&logo=security&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce%20(Candidate)-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### **GTM & Automation Tools**
+![Clay](https://img.shields.io/badge/-Clay-7B42BC?style=flat-square&logo=clay&logoColor=white)
+![Smartlead.ai](https://img.shields.io/badge/-Smartlead.ai-FF6F00?style=flat-square&logo=smartlead&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 ### **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -79,21 +84,30 @@ I'm a **Senior Software Engineer with 5+ years of experience** building full-sta
 
 ## 🏆 Featured Projects
 
+### 🚀 [Beta-Tester-Recruitment-Engine](https://github.com/KgothatsoTheko/Beta-Tester-Recruitment-Engine)
+**GTM automation tool** that mines GitHub for developer profiles matching target criteria, enriches data via Clay, and exports to Smartlead.ai for sequenced outreach. Built to **accelerate beta program recruitment** and reduce manual sourcing effort by an estimated 80%.  
+`Python` `GitHub API` `Clay` `Smartlead.ai` `Automation`
+
+### 📊 [Visualforce Account-Opportunity Interface](https://github.com/KgothatsoTheko/Visualforce-Account-Opportunity-Interface-Salesforce)
+**Custom Salesforce application** unifying Account and Opportunity management on a single page. Reduced context-switching for sales teams and **improved data accuracy by 15%**. Apex + Visualforce + SOQL optimisation.  
+`Salesforce` `Apex` `Visualforce` `SOQL`
+
+### 📈 [Sales Dashboard App (LWC)](https://github.com/KgothatsoTheko/Sales-Dashboard-App-in-Salesforce-Lightning-Experience)
+**Real-time sales analytics dashboard** built with Lightning Web Components and Apex. Aggregates Opportunity, Account, and User data to provide pipeline visibility and team performance metrics. Demonstrates **modern Salesforce development** and data visualisation skills.  
+`Salesforce` `LWC` `Apex` `SOQL`
+
 ### 🏛️ [SA-Digital-Portal](https://sa-digital-portal.web.app/)
 **Contributed to a government digital identity platform** serving millions of citizens. Focused on **secure, scalable architecture** for sensitive public data—directly addressing **trust and accessibility barriers** in public sector tech adoption.  
 `TypeScript` `Angular` `Node.js` `MongoDB` `JWT`
 
-### 🍽️ [1947 on Vilakazi Street](https://nineteen47onvilakazistreet.web.app/)
-**Engineered a full-stack restaurant platform** that increased online reservations by 15% through streamlined UX and social media integration. Demonstrated ability to **translate business goals (visibility, bookings) into technical execution**.  
-`Angular` `Node.js` `MongoDB`
+---
 
-### ⚙️ [GTM & CRM Automation Workflows](https://github.com/KgothatsoTheko)
-**Designed and deployed automation systems** that eliminated manual data entry and connected sales tools (Stripe, Google Forms, Salesforce) to CRMs. At KARITA Education, this work **boosted operational efficiency by 60%**—a direct GTM outcome.  
-`Node.js` `Salesforce` `Zapier` `Google Apps Script`
+## 📦 More Projects
 
-### 🔐 [Cybersecurity Tooling](https://github.com/KgothatsoTheko/OSINT-Information-Gathering-Script)
-**Open-source OSINT and penetration testing scripts** developed during my cybersecurity certification journey. They reflect my **security-first mindset**—a critical differentiator when discussing enterprise product adoption and trust.  
-`Python` `Bash` `Nmap`
+- 🍽️ [1947 on Vilakazi Street](https://nineteen47onvilakazistreet.web.app/) – Full-stack restaurant platform that increased online reservations by 15%.  
+- 🔐 [Cybersecurity Tooling](https://github.com/KgothatsoTheko/OSINT-Information-Gathering-Script) – Open-source OSINT and penetration testing scripts demonstrating security-first mindset.  
+- 🧩 [Lead-Opportunity Tracking System](https://github.com/KgothatsoTheko/Lead-Opportunity-Tracking-System-Salesforce) – Custom objects, validation rules, and dashboards for Salesforce pipeline management.  
+- ⚡ [Automated Google Meet Attendance to Salesforce]([https://github.com/KgothatsoTheko](https://www.linkedin.com/posts/kgothatso-theko_automation-salesforce-salesforceadmin-activity-7400428321995395073--t6f?utm_source=share&utm_medium=member_desktop&rcm=ACoAADihw8MBv7CZofmTQVfxfGDKcjdYQMZDWUs)) – Zapier integration eliminating manual data entry.
 
 ---
 
