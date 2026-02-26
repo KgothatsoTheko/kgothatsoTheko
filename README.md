@@ -33,7 +33,7 @@ I'm a **Senior Software Engineer with 5+ years of experience** building full-sta
 - 🔭 **Current mission:** Bridge the gap between product engineering and market adoption. I help technical products **launch successfully, integrate seamlessly, and deliver measurable value.**
 - 🛠️ **Technical foundation:** Full-stack development (Node.js, React, Angular, cloud), **Google‑certified cybersecurity**, and hands-on automation (Stripe, Zapier, CI/CD).
 - 📘 **Strategic focus:** I'm actively acquiring **Salesforce platform expertise** (Platform Developer I, App Builder, Agentforce in progress) to deeply understand enterprise CRM workflows—making me a more effective GTM strategist.
-- 🌍 **Sector passion:** Public sector tech, digital identity, education, and community-focused platforms. **Impact > Hype** drives every line of code I write..
+- 🌍 **Sector passion:** Public sector tech, digital identity, education, and community-focused platforms. **Impact > Hype** drives every line of code I write.
 
 ---
 
