@@ -1,11 +1,11 @@
-<h1 align="center">Hello 👋, I'm Kgothatso Theko (KG)</h1>
+<h1 align="center">Hey, I'm KG</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer+Transitioning+to+GTM;Systems-Oriented+%7C+Full-Stack+%7C+Security-First;Building+Technology+That+Reaches+%26+Serves" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>⚡ Translating technical capability into deployed community impact</i>
+  <i>Translating technical capability into deployed community impact</i>
 </p>
 
 <p align="center">
@@ -26,18 +26,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Senior Software Engineer with 5+ years of experience** building full-stack applications, now strategically pivoting into **Go‑to‑Market (GTM) Engineering**. My unique edge is deep technical credibility—I don't just design systems; I understand how they're adopted, secured, and scaled in the real world.
 
-- 🔭 **Current mission:** Bridge the gap between product engineering and market adoption. I help technical products **launch successfully, integrate seamlessly, and deliver measurable value.**
-- 🛠️ **Technical foundation:** Full-stack development (Node.js, React, Angular, cloud), **Google‑certified cybersecurity**, and hands-on automation (Stripe, Zapier, CI/CD).
-- 📘 **Strategic focus:** I'm actively acquiring **Salesforce platform expertise** (Platform Developer I, App Builder, Agentforce in progress) to deeply understand enterprise CRM workflows—making me a more effective GTM strategist.
-- 🌍 **Sector passion:** Public sector tech, digital identity, education, and community-focused platforms. **Impact > Hype** drives every line of code I write.
+- **Current mission:** Bridge the gap between product engineering and market adoption. I help technical products **launch successfully, integrate seamlessly, and deliver measurable value.**
+- **Technical foundation:** Full-stack development (Node.js, React, Angular, cloud), **Google‑certified cybersecurity**, and hands-on automation (Stripe, Zapier, CI/CD).
+- **Strategic focus:** I'm actively acquiring **Salesforce platform expertise** (Platform Developer I, App Builder, Agentforce in progress) to deeply understand enterprise CRM workflows—making me a more effective GTM strategist.
+- **Sector passion:** Public sector tech, digital identity, education, and community-focused platforms. **Impact > Hype** drives every line of code I write.
 
 ---
 
-## 🛠️ Core Competencies
+## Core Competencies
 
 ### **Full-Stack Engineering**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -71,7 +71,7 @@ I'm a **Senior Software Engineer with 5+ years of experience** building full-sta
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KgothatsoTheko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=000000" /> 
@@ -84,40 +84,40 @@ I'm a **Senior Software Engineer with 5+ years of experience** building full-sta
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🚀 [Beta-Tester-Recruitment-Engine](https://github.com/KgothatsoTheko/Beta-Tester-Recruitment-Engine)
+### [Beta-Tester-Recruitment-Engine](https://github.com/KgothatsoTheko/Beta-Tester-Recruitment-Engine)
 **GTM automation tool** that mines GitHub for developer profiles matching target criteria, enriches data via Clay, and exports to Smartlead.ai for sequenced outreach. Built to **accelerate beta program recruitment** and reduce manual sourcing effort by an estimated 80%.  
 `Python` `GitHub API` `Clay` `Smartlead.ai` `Automation`
 
-### 📊 [Visualforce Account-Opportunity Interface](https://github.com/KgothatsoTheko/Visualforce-Account-Opportunity-Interface-Salesforce)
+### [Visualforce Account-Opportunity Interface](https://github.com/KgothatsoTheko/Visualforce-Account-Opportunity-Interface-Salesforce)
 **Custom Salesforce application** unifying Account and Opportunity management on a single page. Reduced context-switching for sales teams and **improved data accuracy by 15%**. Apex + Visualforce + SOQL optimisation.  
 `Salesforce` `Apex` `Visualforce` `SOQL`
 
-### 📈 [Sales Dashboard App (LWC)](https://github.com/KgothatsoTheko/Sales-Dashboard-App-in-Salesforce-Lightning-Experience)
+### [Sales Dashboard App (LWC)](https://github.com/KgothatsoTheko/Sales-Dashboard-App-in-Salesforce-Lightning-Experience)
 **Real-time sales analytics dashboard** built with Lightning Web Components and Apex. Aggregates Opportunity, Account, and User data to provide pipeline visibility and team performance metrics. Demonstrates **modern Salesforce development** and data visualisation skills.  
 `Salesforce` `LWC` `Apex` `SOQL`
 
-### 🏛️ [SA-Digital-Portal](https://sa-digital-portal.web.app/)
+### [SA-Digital-Portal](https://sa-digital-portal.web.app/)
 **Contributed to a government digital identity platform** serving millions of citizens. Focused on **secure, scalable architecture** for sensitive public data—directly addressing **trust and accessibility barriers** in public sector tech adoption.  
 `TypeScript` `Angular` `Node.js` `MongoDB` `JWT`
 
 ---
 
-## 📦 More Projects
+## More Projects
 
-- 🍽️ [1947 on Vilakazi Street](https://nineteen47onvilakazistreet.web.app/) – Full-stack restaurant platform that increased online reservations by 15%.  
-- 🔐 [Cybersecurity Tooling](https://github.com/KgothatsoTheko/OSINT-Information-Gathering-Script) – Open-source OSINT and penetration testing scripts demonstrating security-first mindset.  
-- 🧩 [Lead-Opportunity Tracking System](https://github.com/KgothatsoTheko/Lead-Opportunity-Tracking-System-Salesforce) – Custom objects, validation rules, and dashboards for Salesforce pipeline management.  
-- ⚡ [Automated Google Meet Attendance to Salesforce](https://www.linkedin.com/posts/kgothatso-theko_automation-salesforce-salesforceadmin-activity-7400428321995395073--t6f?utm_source=share&utm_medium=member_desktop&rcm=ACoAADihw8MBv7CZofmTQVfxfGDKcjdYQMZDWUs) – Zapier integration eliminating manual data entry.
+- [1947 on Vilakazi Street](https://nineteen47onvilakazistreet.web.app/) – Full-stack restaurant platform that increased online reservations by 15%.  
+- [Cybersecurity Tooling](https://github.com/KgothatsoTheko/OSINT-Information-Gathering-Script) – Open-source OSINT and penetration testing scripts demonstrating security-first mindset.  
+- [Lead-Opportunity Tracking System](https://github.com/KgothatsoTheko/Lead-Opportunity-Tracking-System-Salesforce) – Custom objects, validation rules, and dashboards for Salesforce pipeline management.  
+- [Automated Google Meet Attendance to Salesforce](https://www.linkedin.com/posts/kgothatso-theko_automation-salesforce-salesforceadmin-activity-7400428321995395073--t6f?utm_source=share&utm_medium=member_desktop&rcm=ACoAADihw8MBv7CZofmTQVfxfGDKcjdYQMZDWUs) – Zapier integration eliminating manual data entry.
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
-- 💼 **LinkedIn:** [Kgothatso Theko](https://www.linkedin.com/in/kgothatso-theko/)
-- 🌐 **Portfolio:** [kgothatsotheko.web.app](https://kgothatsotheko.web.app/)
-- 📧 **Email:** [kgothatsotheko7@gmail.com](mailto:kgothatsotheko7@gmail.com)
+- **LinkedIn:** [Kgothatso Theko](https://www.linkedin.com/in/kgothatso-theko/)
+- **Portfolio:** [kgothatsotheko.web.app](https://kgothatsotheko.web.app/)
+- **Email:** [kgothatsotheko7@gmail.com](mailto:kgothatsotheko7@gmail.com)
 
 ---
 
