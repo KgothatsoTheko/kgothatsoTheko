@@ -28,7 +28,7 @@
 
 ## About Me
 
-I'm a **Senior Software Engineer with 5+ years of experience** building full-stack applications, now strategically pivoting into **Go‑to‑Market (GTM) Engineering**. My unique edge is deep technical credibility—I don't just design systems; I understand how they're adopted, secured, and scaled in the real world.
+I'm a **Senior Software Engineer with 5+ years of experience** building full-stack applications, now strategically pivoting into **Go‑to‑Market (GTM) Engineering**. My unique edge is deep technical credibility - I don't just design systems; I understand how they're adopted, secured, and scaled in the real world.
 
 - **Current mission:** Bridge the gap between product engineering and market adoption. I help technical products **launch successfully, integrate seamlessly, and deliver measurable value.**
 - **Technical foundation:** Full-stack development (Node.js, React, Angular, cloud), **Google‑certified cybersecurity**, and hands-on automation (Stripe, Zapier, CI/CD).
