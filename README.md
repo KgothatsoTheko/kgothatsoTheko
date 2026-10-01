@@ -1,4 +1,4 @@
-# Hey, I'm KG
+<h2 align="center"># Hey, I'm KG</h2>
 
 <p align="center">
   <strong>Full-stack engineer · Systems thinker · Builder</strong>
