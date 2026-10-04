@@ -214,6 +214,7 @@ The common thread across my projects is curiosity: connecting ideas from differe
 ## Let's Connect
 
 **LinkedIn:** [Kgothatso Theko](https://www.linkedin.com/in/kgothatso-theko/)
+
 **Portfolio:** [kgothatsotheko.web.app](https://kgothatsotheko.web.app/)
 
 ---
